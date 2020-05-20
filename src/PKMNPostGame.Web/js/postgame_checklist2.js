@@ -11,6 +11,7 @@ function ChangeSpanToImages(acronym)
 		
 		// Being lazy and trying to figure out wth is going on with the urls
 		console.log(imageUrl);
+		console.log(bgimg);
 	}
 	
 	var smBadges = $(".badge-sm");
@@ -24,6 +25,7 @@ function ChangeSpanToImages(acronym)
 		
 		// Being lazy and trying to figure out wth is going on with the urls
 		console.log(imageUrl);
+		console.log(bgimg);
 	}
 	
 	var mdBadges = $(".badge-md");
@@ -37,6 +39,7 @@ function ChangeSpanToImages(acronym)
 		
 		// Being lazy and trying to figure out wth is going on with the urls
 		console.log(imageUrl);
+		console.log(bgimg);
 	}
 }
 
