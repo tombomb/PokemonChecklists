@@ -8,6 +8,9 @@ function ChangeSpanToImages(acronym)
 		
 		$(headers[i]).html('<img class="' + acronym + 'Logo" src="' + imageUrl + '" />');
 		$(headers[i]).css('background-image', 'none');
+		
+		// Being lazy and trying to figure out wth is going on with the urls
+		console.log(imageUrl);
 	}
 	
 	var smBadges = $(".badge-sm");
@@ -18,6 +21,9 @@ function ChangeSpanToImages(acronym)
 		
 		$(smBadges[i]).html('<img class="' + acronym + 'Badge" src="' + imageUrl + '" />');
 		$(smBadges[i]).css('background-image', 'none');
+		
+		// Being lazy and trying to figure out wth is going on with the urls
+		console.log(imageUrl);
 	}
 	
 	var mdBadges = $(".badge-md");
@@ -28,6 +34,9 @@ function ChangeSpanToImages(acronym)
 		
 		$(mdBadges[i]).html('<img class="' + acronym + 'Badge" src="' + imageUrl + '" />');
 		$(mdBadges[i]).css('background-image', 'none');
+		
+		// Being lazy and trying to figure out wth is going on with the urls
+		console.log(imageUrl);
 	}
 }
 
