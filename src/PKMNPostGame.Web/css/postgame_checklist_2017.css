@@ -4,7 +4,7 @@
 	height: 15px;
 	margin-left: 5px;
 	content: " ";
-	background: url("/src/PKMNPostGame.Web/images/pokeball_bullet.png");
+	background: url("/PokemonChecklists/src/PKMNPostGame.Web/images/pokeball_bullet.png");
 	background-size: 100%;
 }
 
@@ -52,7 +52,7 @@
 .sword {
 	color: #00A1E9;
 
-	background-image: url("/src/PKMNPostGame.Web/images/rustedsword.png");
+	background-image: url("/PokemonChecklists/src/PKMNPostGame.Web/images/rustedsword.png");
 	background-repeat: no-repeat;
 	background-size: 15px 15px;
 	background-position: right;
@@ -62,7 +62,7 @@
 .shield {
 	color: #DE0059;
 
-	background-image: url("/src/PKMNPostGame.Web/images/rustedshield.png");
+	background-image: url("/PokemonChecklists/src/PKMNPostGame.Web/images/rustedshield.png");
 	background-repeat: no-repeat;
 	background-size: 15px 15px;
 	background-position: right;
@@ -132,37 +132,37 @@
 .rsLogo, .rseLogo { height: 150px; }
 .frlgLogo { height: 100px; }
 .rbBadge, .rbyBadge, .rsBadge, .rseBadge, .frlgBadge, .lgpeBadge { width: 30px; height: 30px; }
-.rbCharizard { background: url("/src/PKMNPostGame.Web/images/Charizard.png"); background-size: contain; background-repeat: no-repeat; }
-.rbBlastoise { background: url("/src/PKMNPostGame.Web/images/Blastoise.png"); background-size: contain; background-repeat: no-repeat; }
-.rbyPikachu { background: url("/src/PKMNPostGame.Web/images/Pikachu.png"); background-size: contain; background-repeat: no-repeat; }
-.rsGroudon { background: url("/src/PKMNPostGame.Web/images/Groudon.png"); background-size: contain; background-repeat: no-repeat; }
-.rsKyogre { background: url("/src/PKMNPostGame.Web/images/Kyogre.png"); background-size: contain; background-repeat: no-repeat; }
-.rseRayquaza-Left { background: url("/src/PKMNPostGame.Web/images/Rayquaza_Left.png"); background-size: contain; background-repeat: no-repeat; }
-.rseRayquaza-Right { background: url("/src/PKMNPostGame.Web/images/Rayquaza_Right.png"); background-size: contain; background-repeat: no-repeat; }
-.frlgCharizard { background: url("/src/PKMNPostGame.Web/images/FireRedCharizard.png"); background-size: contain; background-repeat: no-repeat; }
-.frlgVenusaur { background: url("/src/PKMNPostGame.Web/images/LeafGreenVenusaur.png"); background-size: contain; background-repeat: no-repeat; }
-.rbBoulderBadge { background: url("/src/PKMNPostGame.Web/images/rb_Boulder_Badge.png"); background-size: contain; background-repeat: no-repeat; }
-.rbCascadeBadge { background: url("/src/PKMNPostGame.Web/images/rb_Cascade_Badge.png"); background-size: contain; background-repeat: no-repeat; }
-.rbThunderBadge { background: url("/src/PKMNPostGame.Web/images/rb_Thunder_Badge.png"); background-size: contain; background-repeat: no-repeat; }
-.rbRainbowBadge { background: url("/src/PKMNPostGame.Web/images/rb_Rainbow_Badge.png"); background-size: contain; background-repeat: no-repeat; }
-.rbSoulBadge { background: url("/src/PKMNPostGame.Web/images/rb_Soul_Badge.png"); background-size: contain; background-repeat: no-repeat; }
-.rbMarshBadge { background: url("/src/PKMNPostGame.Web/images/rb_Marsh_Badge.png"); background-size: contain; background-repeat: no-repeat; }
-.rbVolcanoBadge { background: url("/src/PKMNPostGame.Web/images/rb_Volcano_Badge.png"); background-size: contain; background-repeat: no-repeat; }
-.rbEarthBadge { background: url("/src/PKMNPostGame.Web/images/rb_Earth_Badge.png"); background-size: contain; background-repeat: no-repeat; }
-.lgpeBoulderBadge { background: url("/src/PKMNPostGame.Web/images/lgpe_Boulder_Badge.png"); background-size: contain; background-repeat: no-repeat; }
-.lgpeCascadeBadge { background: url("/src/PKMNPostGame.Web/images/lgpe_Cascade_Badge.png"); background-size: contain; background-repeat: no-repeat; }
-.lgpeThunderBadge { background: url("/src/PKMNPostGame.Web/images/lgpe_Thunder_Badge.png"); background-size: contain; background-repeat: no-repeat; }
-.lgpeRainbowBadge { background: url("/src/PKMNPostGame.Web/images/lgpe_Rainbow_Badge.png"); background-size: contain; background-repeat: no-repeat; }
-.lgpeSoulBadge { background: url("/src/PKMNPostGame.Web/images/lgpe_Soul_Badge.png"); background-size: contain; background-repeat: no-repeat; }
-.lgpeMarshBadge { background: url("/src/PKMNPostGame.Web/images/lgpe_Marsh_Badge.png"); background-size: contain; background-repeat: no-repeat; }
-.lgpeVolcanoBadge { background: url("/src/PKMNPostGame.Web/images/lgpe_Volcano_Badge.png"); background-size: contain; background-repeat: no-repeat; }
-.lgpeEarthBadge { background: url("/src/PKMNPostGame.Web/images/lgpe_Earth_Badge.png"); background-size: contain; background-repeat: no-repeat; }
+.rbCharizard { background: url("/PokemonChecklists/src/PKMNPostGame.Web/images/Charizard.png"); background-size: contain; background-repeat: no-repeat; }
+.rbBlastoise { background: url("/PokemonChecklists/src/PKMNPostGame.Web/images/Blastoise.png"); background-size: contain; background-repeat: no-repeat; }
+.rbyPikachu { background: url("/PokemonChecklists/src/PKMNPostGame.Web/images/Pikachu.png"); background-size: contain; background-repeat: no-repeat; }
+.rsGroudon { background: url("/PokemonChecklists/src/PKMNPostGame.Web/images/Groudon.png"); background-size: contain; background-repeat: no-repeat; }
+.rsKyogre { background: url("/PokemonChecklists/src/PKMNPostGame.Web/images/Kyogre.png"); background-size: contain; background-repeat: no-repeat; }
+.rseRayquaza-Left { background: url("/PokemonChecklists/src/PKMNPostGame.Web/images/Rayquaza_Left.png"); background-size: contain; background-repeat: no-repeat; }
+.rseRayquaza-Right { background: url("/PokemonChecklists/src/PKMNPostGame.Web/images/Rayquaza_Right.png"); background-size: contain; background-repeat: no-repeat; }
+.frlgCharizard { background: url("/PokemonChecklists/src/PKMNPostGame.Web/images/FireRedCharizard.png"); background-size: contain; background-repeat: no-repeat; }
+.frlgVenusaur { background: url("/PokemonChecklists/src/PKMNPostGame.Web/images/LeafGreenVenusaur.png"); background-size: contain; background-repeat: no-repeat; }
+.rbBoulderBadge { background: url("/PokemonChecklists/src/PKMNPostGame.Web/images/rb_Boulder_Badge.png"); background-size: contain; background-repeat: no-repeat; }
+.rbCascadeBadge { background: url("/PokemonChecklists/src/PKMNPostGame.Web/images/rb_Cascade_Badge.png"); background-size: contain; background-repeat: no-repeat; }
+.rbThunderBadge { background: url("/PokemonChecklists/src/PKMNPostGame.Web/images/rb_Thunder_Badge.png"); background-size: contain; background-repeat: no-repeat; }
+.rbRainbowBadge { background: url("/PokemonChecklists/src/PKMNPostGame.Web/images/rb_Rainbow_Badge.png"); background-size: contain; background-repeat: no-repeat; }
+.rbSoulBadge { background: url("/PokemonChecklists/src/PKMNPostGame.Web/images/rb_Soul_Badge.png"); background-size: contain; background-repeat: no-repeat; }
+.rbMarshBadge { background: url("/PokemonChecklists/src/PKMNPostGame.Web/images/rb_Marsh_Badge.png"); background-size: contain; background-repeat: no-repeat; }
+.rbVolcanoBadge { background: url("/PokemonChecklists/src/PKMNPostGame.Web/images/rb_Volcano_Badge.png"); background-size: contain; background-repeat: no-repeat; }
+.rbEarthBadge { background: url("/PokemonChecklists/src/PKMNPostGame.Web/images/rb_Earth_Badge.png"); background-size: contain; background-repeat: no-repeat; }
+.lgpeBoulderBadge { background: url("/PokemonChecklists/src/PKMNPostGame.Web/images/lgpe_Boulder_Badge.png"); background-size: contain; background-repeat: no-repeat; }
+.lgpeCascadeBadge { background: url("/PokemonChecklists/src/PKMNPostGame.Web/images/lgpe_Cascade_Badge.png"); background-size: contain; background-repeat: no-repeat; }
+.lgpeThunderBadge { background: url("/PokemonChecklists/src/PKMNPostGame.Web/images/lgpe_Thunder_Badge.png"); background-size: contain; background-repeat: no-repeat; }
+.lgpeRainbowBadge { background: url("/PokemonChecklists/src/PKMNPostGame.Web/images/lgpe_Rainbow_Badge.png"); background-size: contain; background-repeat: no-repeat; }
+.lgpeSoulBadge { background: url("/PokemonChecklists/src/PKMNPostGame.Web/images/lgpe_Soul_Badge.png"); background-size: contain; background-repeat: no-repeat; }
+.lgpeMarshBadge { background: url("/PokemonChecklists/src/PKMNPostGame.Web/images/lgpe_Marsh_Badge.png"); background-size: contain; background-repeat: no-repeat; }
+.lgpeVolcanoBadge { background: url("/PokemonChecklists/src/PKMNPostGame.Web/images/lgpe_Volcano_Badge.png"); background-size: contain; background-repeat: no-repeat; }
+.lgpeEarthBadge { background: url("/PokemonChecklists/src/PKMNPostGame.Web/images/lgpe_Earth_Badge.png"); background-size: contain; background-repeat: no-repeat; }
 
 .gsLogo, .gscLogo { width: 125px; height: 115px; }
 .gsBadge, .gscBadge { width: 30px; height: 30px; }
-.gscHooh { background: url("/src/PKMNPostGame.Web/images/Ho-Oh.png"); background-size: contain; background-repeat: no-repeat; }
-.gscLugia { background: url("/src/PKMNPostGame.Web/images/Lugia.png"); background-size: contain; background-repeat: no-repeat; }
-.gscSuicune { background: url("/src/PKMNPostGame.Web/images/Suicune.png"); background-size: contain; background-repeat: no-repeat;
+.gscHooh { background: url("/PokemonChecklists/src/PKMNPostGame.Web/images/Ho-Oh.png"); background-size: contain; background-repeat: no-repeat; }
+.gscLugia { background: url("/PokemonChecklists/src/PKMNPostGame.Web/images/Lugia.png"); background-size: contain; background-repeat: no-repeat; }
+.gscSuicune { background: url("/PokemonChecklists/src/PKMNPostGame.Web/images/Suicune.png"); background-size: contain; background-repeat: no-repeat;
 	-moz-transform: scaleX(-1);
 	-o-transform: scaleX(-1);
 	-webkit-transform: scaleX(-1);
@@ -170,56 +170,56 @@
 	filter: FlipH;
 	-ms-filter: "FlipH";
 }
-.gscSuicune2 { background: url("/src/PKMNPostGame.Web/images/Suicune2.png"); background-size: contain; background-repeat: no-repeat; }
-.gscZephyrBadge { background: url("/src/PKMNPostGame.Web/images/hgss_Zephyr_Badge.png"); background-size: contain; background-repeat: no-repeat; }
-.gscHiveBadge { background: url("/src/PKMNPostGame.Web/images/hgss_Hive_Badge.png"); background-size: contain; background-repeat: no-repeat; }
-.gscPlainBadge { background: url("/src/PKMNPostGame.Web/images/hgss_Plain_Badge.png"); background-size: contain; background-repeat: no-repeat; }
-.gscFogBadge { background: url("/src/PKMNPostGame.Web/images/hgss_Fog_Badge.png"); background-size: contain; background-repeat: no-repeat; }
-.gscStormBadge { background: url("/src/PKMNPostGame.Web/images/hgss_Storm_Badge.png"); background-size: contain; background-repeat: no-repeat; }
-.gscMineralBadge { background: url("/src/PKMNPostGame.Web/images/hgss_Mineral_Badge.png"); background-size: contain; background-repeat: no-repeat; }
-.gscGlacierBadge { background: url("/src/PKMNPostGame.Web/images/hgss_Glacier_Badge.png"); background-size: contain; background-repeat: no-repeat; }
-.gscRisingBadge { background: url("/src/PKMNPostGame.Web/images/hgss_Rising_Badge.png"); background-size: contain; background-repeat: no-repeat; }
+.gscSuicune2 { background: url("/PokemonChecklists/src/PKMNPostGame.Web/images/Suicune2.png"); background-size: contain; background-repeat: no-repeat; }
+.gscZephyrBadge { background: url("/PokemonChecklists/src/PKMNPostGame.Web/images/hgss_Zephyr_Badge.png"); background-size: contain; background-repeat: no-repeat; }
+.gscHiveBadge { background: url("/PokemonChecklists/src/PKMNPostGame.Web/images/hgss_Hive_Badge.png"); background-size: contain; background-repeat: no-repeat; }
+.gscPlainBadge { background: url("/PokemonChecklists/src/PKMNPostGame.Web/images/hgss_Plain_Badge.png"); background-size: contain; background-repeat: no-repeat; }
+.gscFogBadge { background: url("/PokemonChecklists/src/PKMNPostGame.Web/images/hgss_Fog_Badge.png"); background-size: contain; background-repeat: no-repeat; }
+.gscStormBadge { background: url("/PokemonChecklists/src/PKMNPostGame.Web/images/hgss_Storm_Badge.png"); background-size: contain; background-repeat: no-repeat; }
+.gscMineralBadge { background: url("/PokemonChecklists/src/PKMNPostGame.Web/images/hgss_Mineral_Badge.png"); background-size: contain; background-repeat: no-repeat; }
+.gscGlacierBadge { background: url("/PokemonChecklists/src/PKMNPostGame.Web/images/hgss_Glacier_Badge.png"); background-size: contain; background-repeat: no-repeat; }
+.gscRisingBadge { background: url("/PokemonChecklists/src/PKMNPostGame.Web/images/hgss_Rising_Badge.png"); background-size: contain; background-repeat: no-repeat; }
 
-.orasStoneBadge { background: url("/src/PKMNPostGame.Web/images/oras_stone_badge.png"); background-size: contain; background-repeat: no-repeat; width: 30px; height: 30px; }
-.orasKnuckleBadge { background: url("/src/PKMNPostGame.Web/images/oras_knuckle_badge.png"); background-size: contain; background-repeat: no-repeat; width: 30px; height: 30px; }
-.orasDynamoBadge { background: url("/src/PKMNPostGame.Web/images/oras_dynamo_badge.png"); background-size: contain; background-repeat: no-repeat; width: 30px; height: 30px; }
-.orasHeatBadge { background: url("/src/PKMNPostGame.Web/images/oras_heat_badge.png"); background-size: contain; background-repeat: no-repeat; width: 30px; height: 30px; }
-.orasBalanceBadge { background: url("/src/PKMNPostGame.Web/images/oras_balance_badge.png"); background-size: contain; background-repeat: no-repeat; width: 30px; height: 30px; }
-.orasFeatherBadge { background: url("/src/PKMNPostGame.Web/images/oras_feather_badge.png"); background-size: contain; background-repeat: no-repeat; width: 30px; height: 30px; }
-.orasMindBadge { background: url("/src/PKMNPostGame.Web/images/oras_mind_badge.png"); background-size: contain; background-repeat: no-repeat; width: 30px; height: 30px; }
-.orasRainBadge { background: url("/src/PKMNPostGame.Web/images/oras_rain_badge.png"); background-size: contain; background-repeat: no-repeat; width: 30px; height: 30px; }
+.orasStoneBadge { background: url("/PokemonChecklists/src/PKMNPostGame.Web/images/oras_stone_badge.png"); background-size: contain; background-repeat: no-repeat; width: 30px; height: 30px; }
+.orasKnuckleBadge { background: url("/PokemonChecklists/src/PKMNPostGame.Web/images/oras_knuckle_badge.png"); background-size: contain; background-repeat: no-repeat; width: 30px; height: 30px; }
+.orasDynamoBadge { background: url("/PokemonChecklists/src/PKMNPostGame.Web/images/oras_dynamo_badge.png"); background-size: contain; background-repeat: no-repeat; width: 30px; height: 30px; }
+.orasHeatBadge { background: url("/PokemonChecklists/src/PKMNPostGame.Web/images/oras_heat_badge.png"); background-size: contain; background-repeat: no-repeat; width: 30px; height: 30px; }
+.orasBalanceBadge { background: url("/PokemonChecklists/src/PKMNPostGame.Web/images/oras_balance_badge.png"); background-size: contain; background-repeat: no-repeat; width: 30px; height: 30px; }
+.orasFeatherBadge { background: url("/PokemonChecklists/src/PKMNPostGame.Web/images/oras_feather_badge.png"); background-size: contain; background-repeat: no-repeat; width: 30px; height: 30px; }
+.orasMindBadge { background: url("/PokemonChecklists/src/PKMNPostGame.Web/images/oras_mind_badge.png"); background-size: contain; background-repeat: no-repeat; width: 30px; height: 30px; }
+.orasRainBadge { background: url("/PokemonChecklists/src/PKMNPostGame.Web/images/oras_rain_badge.png"); background-size: contain; background-repeat: no-repeat; width: 30px; height: 30px; }
 
 
-.sumoKoko { background: url("/src/PKMNPostGame.Web/images/TapuKoko.png"); background-size: contain; background-repeat: no-repeat; }
-.sumoLele { background: url("/src/PKMNPostGame.Web/images/TapuLele.png"); background-size: contain; background-repeat: no-repeat; }
-.sumoBulu { background: url("/src/PKMNPostGame.Web/images/TapuBulu.png"); background-size: contain; background-repeat: no-repeat; }
-.sumoFini { background: url("/src/PKMNPostGame.Web/images/TapuFini.png"); background-size: contain; background-repeat: no-repeat; }
+.sumoKoko { background: url("/PokemonChecklists/src/PKMNPostGame.Web/images/TapuKoko.png"); background-size: contain; background-repeat: no-repeat; }
+.sumoLele { background: url("/PokemonChecklists/src/PKMNPostGame.Web/images/TapuLele.png"); background-size: contain; background-repeat: no-repeat; }
+.sumoBulu { background: url("/PokemonChecklists/src/PKMNPostGame.Web/images/TapuBulu.png"); background-size: contain; background-repeat: no-repeat; }
+.sumoFini { background: url("/PokemonChecklists/src/PKMNPostGame.Web/images/TapuFini.png"); background-size: contain; background-repeat: no-repeat; }
 
 .usumLogo { width: 125px; height: 125px; }
 .usumBadge { width: 50px; height: 50px; }
-.usumLunala { background: url("/src/PKMNPostGame.Web/images/ultra-lunala.png"); background-size: contain; background-repeat: no-repeat; width: 125px; height: 125px; }
-.usumSolgaleo { background: url("/src/PKMNPostGame.Web/images/ultra-solgaleo.png"); background-size: contain; background-repeat: no-repeat; width: 125px; height: 125px; }
+.usumLunala { background: url("/PokemonChecklists/src/PKMNPostGame.Web/images/ultra-lunala.png"); background-size: contain; background-repeat: no-repeat; width: 125px; height: 125px; }
+.usumSolgaleo { background: url("/PokemonChecklists/src/PKMNPostGame.Web/images/ultra-solgaleo.png"); background-size: contain; background-repeat: no-repeat; width: 125px; height: 125px; }
 
 .lgpeLogo { width: 125px; height: 125px; }
-.lgpePikachu { background: url("/src/PKMNPostGame.Web/images/lgpe_Pikachu.png"); background-size: contain; background-repeat: no-repeat; width: 125px; height: 125px; }
-.lgpeEevee { background: url("/src/PKMNPostGame.Web/images/lgpe_Eevee.png"); background-size: contain; background-repeat: no-repeat; width: 125px; height: 125px; }
+.lgpePikachu { background: url("/PokemonChecklists/src/PKMNPostGame.Web/images/lgpe_Pikachu.png"); background-size: contain; background-repeat: no-repeat; width: 125px; height: 125px; }
+.lgpeEevee { background: url("/PokemonChecklists/src/PKMNPostGame.Web/images/lgpe_Eevee.png"); background-size: contain; background-repeat: no-repeat; width: 125px; height: 125px; }
 
 .swshLogo { width: 125px; height: 125px; }
 .swshBadge { width: 30px; height: 30px; }
-.swshSword { background: url("/src/PKMNPostGame.Web/images/swsh_sword.png"); background-size: contain; background-repeat: no-repeat; width: 125px; height: 125px; }
-.swshShield { background: url("/src/PKMNPostGame.Web/images/swsh_shield.png"); background-size: contain; background-repeat: no-repeat; width: 125px; height: 125px; }
-.swshGrassBadge { background: url("/src/PKMNPostGame.Web/images/swsh_Grass_Badge.png"); background-size: contain; background-repeat: no-repeat; width: 30px; height: 30px; }
-.swshWaterBadge { background: url("/src/PKMNPostGame.Web/images/swsh_Water_Badge.png"); background-size: contain; background-repeat: no-repeat; width: 30px; height: 30px; }
-.swshFireBadge { background: url("/src/PKMNPostGame.Web/images/swsh_Fire_Badge.png"); background-size: contain; background-repeat: no-repeat; width: 30px; height: 30px; }
-.swshGhostBadge { background: url("/src/PKMNPostGame.Web/images/swsh_Ghost_Badge.png"); background-size: contain; background-repeat: no-repeat; width: 30px; height: 30px; }
-.swshFightingBadge { background: url("/src/PKMNPostGame.Web/images/swsh_Fighting_Badge.png"); background-size: contain; background-repeat: no-repeat; width: 30px; height: 30px; }
-.swshFairyBadge { background: url("/src/PKMNPostGame.Web/images/swsh_Fairy_Badge.png"); background-size: contain; background-repeat: no-repeat; width: 30px; height: 30px; }
-.swshIceBadge { background: url("/src/PKMNPostGame.Web/images/swsh_Ice_Badge.png"); background-size: contain; background-repeat: no-repeat; width: 30px; height: 30px; }
-.swshRockBadge { background: url("/src/PKMNPostGame.Web/images/swsh_Rock_Badge.png"); background-size: contain; background-repeat: no-repeat; width: 30px; height: 30px; }
-.swshDarkBadge { background: url("/src/PKMNPostGame.Web/images/swsh_Dark_Badge.png"); background-size: contain; background-repeat: no-repeat; width: 30px; height: 30px; }
-.swshDragonBadge { background: url("/src/PKMNPostGame.Web/images/swsh_Dragon_Badge.png"); background-size: contain; background-repeat: no-repeat; width: 30px; height: 30px; }
+.swshSword { background: url("/PokemonChecklists/src/PKMNPostGame.Web/images/swsh_sword.png"); background-size: contain; background-repeat: no-repeat; width: 125px; height: 125px; }
+.swshShield { background: url("/PokemonChecklists/src/PKMNPostGame.Web/images/swsh_shield.png"); background-size: contain; background-repeat: no-repeat; width: 125px; height: 125px; }
+.swshGrassBadge { background: url("/PokemonChecklists/src/PKMNPostGame.Web/images/swsh_Grass_Badge.png"); background-size: contain; background-repeat: no-repeat; width: 30px; height: 30px; }
+.swshWaterBadge { background: url("/PokemonChecklists/src/PKMNPostGame.Web/images/swsh_Water_Badge.png"); background-size: contain; background-repeat: no-repeat; width: 30px; height: 30px; }
+.swshFireBadge { background: url("/PokemonChecklists/src/PKMNPostGame.Web/images/swsh_Fire_Badge.png"); background-size: contain; background-repeat: no-repeat; width: 30px; height: 30px; }
+.swshGhostBadge { background: url("/PokemonChecklists/src/PKMNPostGame.Web/images/swsh_Ghost_Badge.png"); background-size: contain; background-repeat: no-repeat; width: 30px; height: 30px; }
+.swshFightingBadge { background: url("/PokemonChecklists/src/PKMNPostGame.Web/images/swsh_Fighting_Badge.png"); background-size: contain; background-repeat: no-repeat; width: 30px; height: 30px; }
+.swshFairyBadge { background: url("/PokemonChecklists/src/PKMNPostGame.Web/images/swsh_Fairy_Badge.png"); background-size: contain; background-repeat: no-repeat; width: 30px; height: 30px; }
+.swshIceBadge { background: url("/PokemonChecklists/src/PKMNPostGame.Web/images/swsh_Ice_Badge.png"); background-size: contain; background-repeat: no-repeat; width: 30px; height: 30px; }
+.swshRockBadge { background: url("/PokemonChecklists/src/PKMNPostGame.Web/images/swsh_Rock_Badge.png"); background-size: contain; background-repeat: no-repeat; width: 30px; height: 30px; }
+.swshDarkBadge { background: url("/PokemonChecklists/src/PKMNPostGame.Web/images/swsh_Dark_Badge.png"); background-size: contain; background-repeat: no-repeat; width: 30px; height: 30px; }
+.swshDragonBadge { background: url("/PokemonChecklists/src/PKMNPostGame.Web/images/swsh_Dragon_Badge.png"); background-size: contain; background-repeat: no-repeat; width: 30px; height: 30px; }
 
-.swshArmor { background: url("/src/PKMNPostGame.Web/images/swsh_armor.png"); background-size: contain; background-repeat: no-repeat; width: 125px; height: 125px; }
+.swshArmor { background: url("/PokemonChecklists/src/PKMNPostGame.Web/images/swsh_armor.png"); background-size: contain; background-repeat: no-repeat; width: 125px; height: 125px; }
 
 @media only screen
 and (max-device-width: 750px) 
